@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MitchelAnthony
-- 🛠 I'm a professional full stack developer (PHP/Symfony, Node.js/NestJS, Vue.js).
+- 🛠 I'm a professional full stack developer (PHP/Symfony, Node.js/NestJS, Vue.js, Rust).
 - 👀 I’m interested in web, embedded and game development.
 - 🌱 I’m currently learning [Godot](https://godotengine.org/)!
-- 💞️ I’m looking to collaborate on games or embedded projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/mitchelanthony) or email (see profile/sidebar).
 
 <!---
